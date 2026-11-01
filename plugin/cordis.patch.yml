@@ -1,0 +1,4 @@
+- insert:
+    - id: diff-context
+      name: dsh-diff-context
+      config: {}
